@@ -1,0 +1,5 @@
+<Alloy>
+	<View class="menu">
+		<View id="itens" />
+	</View>
+</Alloy>

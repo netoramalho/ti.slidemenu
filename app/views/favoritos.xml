@@ -1,0 +1,5 @@
+<Alloy>
+	<View backgroundColor="#f39c12">
+		<Label text="Favoritos"/>
+	</View>
+</Alloy>

@@ -1,0 +1,14 @@
+'Window[platform=ios]': {
+	titleAttributes:  {
+        color:'white'
+	},
+	navTintColor: "white",
+	barColor: "#7bc8d5"
+}
+'.menu':{
+	font: {
+		fontFamily: "icomoon",
+		fontSize: "25dp"
+	},
+	color: "#ffffff"
+}

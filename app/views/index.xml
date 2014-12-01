@@ -1,0 +1,15 @@
+<Alloy>
+
+	<!-- iOS Window -->
+    <NavigationWindow id="navWindow" platform="ios">
+    	<Window id="firstWindow">
+            <LeftNavButton>
+                <Label class="icon menu icon-menu" onClick="openMenu"/>
+            </LeftNavButton>
+    	</Window>
+    </NavigationWindow>
+
+    <!-- Android Window -->
+    <Window title="Imóveis" exitOnClose="true" platform="android"/>
+
+</Alloy>

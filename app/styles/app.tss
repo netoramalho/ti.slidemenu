@@ -1,0 +1,19 @@
+'.icon':{
+	color: "#5c96a0",
+	font: {
+		fontFamily: "icomoon",
+		fontSize: "32dp"
+	}
+}
+'.icon-favoritos':{
+	text: ''
+}
+'.icon-msg': {
+	text: ''
+}
+'.icon-next': {
+	text: ''
+}
+'.icon-menu': {
+	text: ''
+}

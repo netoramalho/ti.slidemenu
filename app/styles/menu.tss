@@ -1,0 +1,46 @@
+'.menu': {
+	backgroundColor: '#2b5c7c',
+	layout: 'vertical'
+}
+
+'#itens': {
+	layout: 'vertical',
+	top: 10
+}
+
+'#itens[platform=ios]': {
+	left: 0,
+	width: 270,
+	top: 54
+}
+
+'.item-menu': {
+	top: 2,
+	height: 60,
+	top: 0,
+	left: 0
+}
+
+'.menu-icon': {
+	top: 18,
+	left: 13,
+	right: 13,
+	font: { fontSize: 28}
+}
+
+'.label-menu': {
+	left: 60,
+	top: 19,
+	font: { fontSize: 16, fontFamily: 'Roboto-Regular'},
+	color: '#5c96a0'
+}
+
+'.seta': {
+	right: 20,
+	font: { fontSize: 13},
+	color: '#5c96a0'
+}
+
+'.selected': {
+	color: '#ebb273'
+}
